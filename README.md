@@ -50,8 +50,16 @@ Graph is a complex data structure containing vertices and edges connecting these
 
 
 OUTPUT And WORKING 
+
+
+
+
 ![image](https://user-images.githubusercontent.com/69004414/179169409-88dc4ccf-fab1-4e8f-afa7-47de9c47ca9d.png)
 ![image](https://user-images.githubusercontent.com/69004414/179171122-8a7f864e-7904-46aa-b431-f1378bab596f.png)
+
+![image](https://user-images.githubusercontent.com/69004414/179171851-51a19f99-053f-4791-ae1a-9af0955bcb16.png)
+![image](https://user-images.githubusercontent.com/69004414/179172050-5c7dff36-2d17-4f65-aac5-6e7f2249f223.png)
+![image](https://user-images.githubusercontent.com/69004414/179172297-8c33153d-93a8-4d90-a0d6-ef22c13d98e6.png)
 
 
 
