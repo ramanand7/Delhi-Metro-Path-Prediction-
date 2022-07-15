@@ -49,3 +49,9 @@ Heap is implemented with the help of ArrayList and HashMap.It is a tree based da
 Graph is a complex data structure containing vertices and edges connecting these vertices.This is implemented in the project with the help of ArrayList and HashMap.
 
 
+OUTPUT And WORKING 
+![image](https://user-images.githubusercontent.com/69004414/179169409-88dc4ccf-fab1-4e8f-afa7-47de9c47ca9d.png)
+![image](https://user-images.githubusercontent.com/69004414/179171122-8a7f864e-7904-46aa-b431-f1378bab596f.png)
+
+
+
